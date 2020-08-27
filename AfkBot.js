@@ -3,7 +3,7 @@ const fs = require("fs")
 
 
 var options = {
-    host: 'constantiam.net',
+    host: '<SERVER IP>',
     port: 25565,
     username: '<YOUR MINECRAFT EMAIL>',
     password: '<YOUR MINECRAFT PASSWORD>'
